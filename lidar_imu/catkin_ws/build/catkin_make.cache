@@ -1,0 +1,2 @@
+LiDAR_IMU_Init:livox_ros_driver/livox_ros_driver
+-DCATKIN_DEVEL_PREFIX=/home/lee/calibration/lidar_imu/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/lee/calibration/lidar_imu/catkin_ws/install -G Unix Makefiles
